@@ -11099,6 +11099,250 @@
           "amount": 24
         }
       ]
+    },
+    {
+      "id": 1779517961131,
+      "date": "2026-05-20",
+      "winners": [
+        {
+          "nick": "Endre",
+          "amount": 47.6
+        },
+        {
+          "nick": "Mikdad",
+          "amount": 25.9
+        },
+        {
+          "nick": "Morten",
+          "amount": 7.5
+        }
+      ],
+      "losers": [
+        {
+          "nick": "Bjørn",
+          "amount": 4
+        },
+        {
+          "nick": "Jannik",
+          "amount": 25
+        },
+        {
+          "nick": "Lars V",
+          "amount": 4.7
+        },
+        {
+          "nick": "Mowgli",
+          "amount": 9
+        },
+        {
+          "nick": "Murat",
+          "amount": 50
+        },
+        {
+          "nick": "Wex",
+          "amount": 23.3
+        }
+      ]
+    },
+    {
+      "id": 1779517996742,
+      "date": "2026-05-22",
+      "winners": [
+        {
+          "nick": "Jannik",
+          "amount": 55
+        },
+        {
+          "nick": "Lars V",
+          "amount": 98
+        },
+        {
+          "nick": "Mowgli",
+          "amount": 15
+        },
+        {
+          "nick": "Murat",
+          "amount": 150
+        }
+      ],
+      "losers": [
+        {
+          "nick": "8mm",
+          "amount": 20
+        },
+        {
+          "nick": "Endre",
+          "amount": 68.5
+        },
+        {
+          "nick": "Kassa",
+          "amount": 130
+        },
+        {
+          "nick": "Morten",
+          "amount": 15
+        },
+        {
+          "nick": "Bjørn",
+          "amount": 144.6
+        }
+      ]
+    },
+    {
+      "id": 1780500314496,
+      "date": "2026-05-24",
+      "winners": [
+        {
+          "nick": "Lars V",
+          "amount": 24
+        },
+        {
+          "nick": "Mikdad",
+          "amount": 6.8
+        }
+      ],
+      "losers": [
+        {
+          "nick": "Morten",
+          "amount": 2.4
+        },
+        {
+          "nick": "Mowgli",
+          "amount": 14
+        },
+        {
+          "nick": "Øyvind Q",
+          "amount": 34.5
+        }
+      ]
+    },
+    {
+      "id": 1780500362840,
+      "date": "2026-05-25",
+      "winners": [
+        {
+          "nick": "Endre",
+          "amount": 34
+        },
+        {
+          "nick": "Lars V",
+          "amount": 39
+        },
+        {
+          "nick": "Mowgli",
+          "amount": 20.5
+        }
+      ],
+      "losers": [
+        {
+          "nick": "Jannik",
+          "amount": 7.7
+        },
+        {
+          "nick": "Morten",
+          "amount": 45
+        },
+        {
+          "nick": "Murat",
+          "amount": 36
+        },
+        {
+          "nick": "Wex",
+          "amount": 32.7
+        }
+      ]
+    },
+    {
+      "id": 1780500416481,
+      "date": "2026-05-29",
+      "winners": [
+        {
+          "nick": "99",
+          "amount": 8
+        },
+        {
+          "nick": "Jannik",
+          "amount": 26.5
+        },
+        {
+          "nick": "Muttern",
+          "amount": 6.7
+        },
+        {
+          "nick": "Northug",
+          "amount": 32.6
+        }
+      ],
+      "losers": [
+        {
+          "nick": "8mm",
+          "amount": 10
+        },
+        {
+          "nick": "Endre",
+          "amount": 11
+        },
+        {
+          "nick": "Husein",
+          "amount": 30
+        },
+        {
+          "nick": "Lars V",
+          "amount": 4.5
+        },
+        {
+          "nick": "Mowgli",
+          "amount": 18
+        },
+        {
+          "nick": "Simen K",
+          "amount": 25
+        }
+      ]
+    },
+    {
+      "id": 1780585455753,
+      "date": "2026-06-03",
+      "winners": [
+        {
+          "nick": "Bjørn",
+          "amount": 17.5
+        },
+        {
+          "nick": "Endre",
+          "amount": 9.5
+        },
+        {
+          "nick": "Lars V",
+          "amount": 24.8
+        },
+        {
+          "nick": "Mourad",
+          "amount": 34
+        },
+        {
+          "nick": "Wex",
+          "amount": 12.5
+        }
+      ],
+      "losers": [
+        {
+          "nick": "8mm",
+          "amount": 10
+        },
+        {
+          "nick": "Jannik",
+          "amount": 30
+        },
+        {
+          "nick": "Mowgli",
+          "amount": 34
+        },
+        {
+          "nick": "Murat",
+          "amount": 50
+        }
+      ]
     }
   ]
 }

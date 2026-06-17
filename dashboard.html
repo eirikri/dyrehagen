@@ -475,6 +475,61 @@
   .results-table .neg { color: var(--red); }
   .results-table tr:hover td { background: var(--surface2); }
 
+  .monthly-breakdown {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    margin-bottom: 16px;
+    overflow: hidden;
+  }
+  .monthly-breakdown summary {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 13px 20px;
+    cursor: pointer;
+    font-size: 11px;
+    font-weight: 600;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    color: var(--text3);
+    list-style: none;
+    user-select: none;
+    outline: none;
+  }
+  .monthly-breakdown summary::-webkit-details-marker { display: none; }
+  .monthly-breakdown summary::after {
+    content: '▸';
+    margin-left: auto;
+    font-size: 12px;
+    transition: transform .2s;
+  }
+  .monthly-breakdown[open] summary::after { transform: rotate(90deg); }
+  .monthly-breakdown summary:hover { color: var(--text2); }
+  .monthly-breakdown table { width: 100%; border-collapse: collapse; }
+  .monthly-breakdown th {
+    text-align: left;
+    padding: 7px 20px;
+    font-size: 11px;
+    font-weight: 600;
+    letter-spacing: 1.2px;
+    text-transform: uppercase;
+    color: var(--text3);
+    border-top: 1px solid var(--border);
+    border-bottom: 1px solid var(--border);
+    background: var(--surface2);
+  }
+  .monthly-breakdown td {
+    padding: 8px 20px;
+    font-size: 13px;
+    border-bottom: 1px solid rgba(42,47,69,.5);
+    font-family: var(--font-mono);
+  }
+  .monthly-breakdown tr:last-child td { border-bottom: none; }
+  .monthly-breakdown tr:hover td { background: var(--surface2); }
+  .monthly-breakdown .pos { color: var(--green); }
+  .monthly-breakdown .neg { color: var(--red); }
+
   .empty-state {
     text-align: center;
     padding: 60px 20px;
@@ -1316,6 +1371,32 @@ function renderPlayerView() {
     <div class="chart-wrap">
       <canvas id="playerChart"></canvas>
     </div>
+    ${(()=>{
+      const monthly = {};
+      results.forEach(r => {
+        const d = new Date(r.date);
+        const key = `${d.getFullYear()}-${String(d.getMonth()+1).padStart(2,'0')}`;
+        const label = d.toLocaleDateString('nb-NO',{month:'long',year:'numeric'});
+        if(!monthly[key]) monthly[key] = {label, sessions:0, pnl:0};
+        monthly[key].sessions++;
+        monthly[key].pnl += r.amount;
+      });
+      const rows = Object.keys(monthly).sort((a,b)=>b.localeCompare(a)).map(k=>{
+        const m = monthly[k];
+        return `<tr>
+          <td style="text-transform:capitalize">${m.label}</td>
+          <td>${m.sessions}</td>
+          <td class="${m.pnl>=0?'pos':'neg'}">${m.pnl>=0?'+':''}${fmt(m.pnl)}</td>
+        </tr>`;
+      }).join('');
+      return `<details class="monthly-breakdown">
+        <summary>Månedlig oversikt</summary>
+        <table>
+          <thead><tr><th>Måned</th><th>Sessions</th><th>P&L</th></tr></thead>
+          <tbody>${rows}</tbody>
+        </table>
+      </details>`;
+    })()}
     <div class="card">
       <table class="results-table">
         <thead><tr><th>Dato</th><th>Resultat</th><th>Kumulativt</th><th></th></tr></thead>
