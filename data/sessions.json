@@ -11343,6 +11343,154 @@
           "amount": 50
         }
       ]
+    },
+    {
+      "id": 1781720944515,
+      "date": "2026-06-05",
+      "winners": [
+        {
+          "nick": "8mm",
+          "amount": 1.7
+        },
+        {
+          "nick": "Jannik",
+          "amount": 12.5
+        },
+        {
+          "nick": "Mikkel",
+          "amount": 2.45
+        },
+        {
+          "nick": "Mr X",
+          "amount": 0.5
+        },
+        {
+          "nick": "Wex",
+          "amount": 22.7
+        }
+      ],
+      "losers": [
+        {
+          "nick": "Bjørn",
+          "amount": 3.5
+        },
+        {
+          "nick": "Flytøren",
+          "amount": 31
+        },
+        {
+          "nick": "Lars V",
+          "amount": 25
+        },
+        {
+          "nick": "Mowgli",
+          "amount": 13.8
+        }
+      ]
+    },
+    {
+      "id": 1781721000939,
+      "date": "2026-06-10",
+      "winners": [
+        {
+          "nick": "Bjørn",
+          "amount": 15
+        },
+        {
+          "nick": "Endre",
+          "amount": 1
+        },
+        {
+          "nick": "Jannik",
+          "amount": 20.8
+        },
+        {
+          "nick": "Murat",
+          "amount": 18
+        },
+        {
+          "nick": "Wex",
+          "amount": 2.2
+        }
+      ],
+      "losers": [
+        {
+          "nick": "8mm",
+          "amount": 5
+        },
+        {
+          "nick": "Magnus Aase",
+          "amount": 60
+        },
+        {
+          "nick": "Mowgli",
+          "amount": 12
+        }
+      ]
+    },
+    {
+      "id": 1781721069532,
+      "date": "2026-06-12",
+      "winners": [
+        {
+          "nick": "Christer D",
+          "amount": 22.5
+        },
+        {
+          "nick": "Endre",
+          "amount": 14.5
+        },
+        {
+          "nick": "Erik Asia",
+          "amount": 9
+        },
+        {
+          "nick": "Jannik",
+          "amount": 23.85
+        },
+        {
+          "nick": "Lars V",
+          "amount": 29.8
+        },
+        {
+          "nick": "Murat",
+          "amount": 20
+        }
+      ],
+      "losers": [
+        {
+          "nick": "Anders A",
+          "amount": 21
+        },
+        {
+          "nick": "Bilal A",
+          "amount": 8
+        },
+        {
+          "nick": "Flytøren",
+          "amount": 10
+        },
+        {
+          "nick": "Fredrik S",
+          "amount": 85
+        },
+        {
+          "nick": "Ingrid Marie",
+          "amount": 21.8
+        },
+        {
+          "nick": "Mikkel",
+          "amount": 15
+        },
+        {
+          "nick": "Mowgli",
+          "amount": 9.3
+        },
+        {
+          "nick": "Sebastian Lys",
+          "amount": 4
+        }
+      ]
     }
   ]
 }
