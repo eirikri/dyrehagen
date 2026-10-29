@@ -11659,6 +11659,602 @@
           "amount": 44.6
         }
       ]
+    },
+    {
+      "id": 1786176868912,
+      "date": "2026-07-22",
+      "winners": [
+        {
+          "nick": "8mm",
+          "amount": 9
+        },
+        {
+          "nick": "Endre",
+          "amount": 8.4
+        },
+        {
+          "nick": "Jannik",
+          "amount": 4.1
+        },
+        {
+          "nick": "Lars V",
+          "amount": 10.9
+        },
+        {
+          "nick": "Mowgli",
+          "amount": 0.6
+        }
+      ],
+      "losers": [
+        {
+          "nick": "Erfan B",
+          "amount": 22.5
+        },
+        {
+          "nick": "Husein",
+          "amount": 5.5
+        },
+        {
+          "nick": "Ingrid Marie",
+          "amount": 15
+        },
+        {
+          "nick": "Mr X",
+          "amount": 11.8
+        }
+      ]
+    },
+    {
+      "id": 1786176919897,
+      "date": "2026-07-24",
+      "winners": [
+        {
+          "nick": "Fredrik S",
+          "amount": 32
+        },
+        {
+          "nick": "Jannik",
+          "amount": 26.8
+        },
+        {
+          "nick": "Mowgli",
+          "amount": 1
+        }
+      ],
+      "losers": [
+        {
+          "nick": "8mm",
+          "amount": 25
+        },
+        {
+          "nick": "Endre",
+          "amount": 15
+        },
+        {
+          "nick": "Husein",
+          "amount": 3.2
+        },
+        {
+          "nick": "Mr X",
+          "amount": 21.7
+        },
+        {
+          "nick": "Thanh",
+          "amount": 10
+        },
+        {
+          "nick": "Tore Andreas",
+          "amount": 10.6
+        }
+      ]
+    },
+    {
+      "id": 1786176966896,
+      "date": "2026-07-31",
+      "winners": [
+        {
+          "nick": "Anders A",
+          "amount": 55
+        },
+        {
+          "nick": "Endre",
+          "amount": 46
+        },
+        {
+          "nick": "Husein",
+          "amount": 21.7
+        }
+      ],
+      "losers": [
+        {
+          "nick": "Jannik",
+          "amount": 45
+        },
+        {
+          "nick": "Lars V",
+          "amount": 19
+        },
+        {
+          "nick": "Mowgli",
+          "amount": 0.7
+        },
+        {
+          "nick": "Mr X",
+          "amount": 5
+        },
+        {
+          "nick": "Odden",
+          "amount": 24.5
+        },
+        {
+          "nick": "Thanh",
+          "amount": 30
+        },
+        {
+          "nick": "Wex",
+          "amount": 48.4
+        }
+      ]
+    },
+    {
+      "id": 1786177034513,
+      "date": "2026-08-05",
+      "winners": [
+        {
+          "nick": "Bjørn",
+          "amount": 19
+        },
+        {
+          "nick": "Jannik",
+          "amount": 22.1
+        },
+        {
+          "nick": "Lars V",
+          "amount": 3.8
+        },
+        {
+          "nick": "Mowgli",
+          "amount": 14.3
+        },
+        {
+          "nick": "Stein Hansen",
+          "amount": 16.5
+        }
+      ],
+      "losers": [
+        {
+          "nick": "Husein",
+          "amount": 40
+        },
+        {
+          "nick": "KingKong",
+          "amount": 28.9
+        },
+        {
+          "nick": "Odden",
+          "amount": 7.5
+        },
+        {
+          "nick": "Wex",
+          "amount": 23.9
+        }
+      ]
+    },
+    {
+      "id": 1786177091078,
+      "date": "2026-08-07",
+      "winners": [
+        {
+          "nick": "Bjørn",
+          "amount": 33.5
+        },
+        {
+          "nick": "Inge F",
+          "amount": 5.7
+        },
+        {
+          "nick": "Jannik",
+          "amount": 30.5
+        },
+        {
+          "nick": "Jens",
+          "amount": 3
+        },
+        {
+          "nick": "Kent",
+          "amount": 33.6
+        },
+        {
+          "nick": "Solfjeld",
+          "amount": 51
+        }
+      ],
+      "losers": [
+        {
+          "nick": "Bilal A",
+          "amount": 20
+        },
+        {
+          "nick": "Endre",
+          "amount": 52
+        },
+        {
+          "nick": "Erfan B",
+          "amount": 10
+        },
+        {
+          "nick": "Husein",
+          "amount": 25
+        },
+        {
+          "nick": "Lars V",
+          "amount": 46.5
+        },
+        {
+          "nick": "Mikkel",
+          "amount": 30
+        },
+        {
+          "nick": "Mowgli",
+          "amount": 40.5
+        }
+      ]
+    },
+    {
+      "id": 1788676667564,
+      "date": "2026-08-12",
+      "winners": [
+        {
+          "nick": "Jannik",
+          "amount": 55.8
+        },
+        {
+          "nick": "KingKong",
+          "amount": 13.5
+        }
+      ],
+      "losers": [
+        {
+          "nick": "8mm",
+          "amount": 20
+        },
+        {
+          "nick": "Bjørn",
+          "amount": 30
+        },
+        {
+          "nick": "Endre",
+          "amount": 10
+        },
+        {
+          "nick": "Morten",
+          "amount": 15
+        },
+        {
+          "nick": "Mowgli",
+          "amount": 5.3
+        },
+        {
+          "nick": "Wex",
+          "amount": 6.5
+        }
+      ]
+    },
+    {
+      "id": 1788676769292,
+      "date": "2026-08-14",
+      "winners": [
+        {
+          "nick": "Bjørn",
+          "amount": 72.5
+        },
+        {
+          "nick": "Jannik",
+          "amount": 26.3
+        },
+        {
+          "nick": "Mowgli",
+          "amount": 68
+        },
+        {
+          "nick": "Muttern",
+          "amount": 190
+        }
+      ],
+      "losers": [
+        {
+          "nick": "8mm",
+          "amount": 6.7
+        },
+        {
+          "nick": "Endre A",
+          "amount": 20
+        },
+        {
+          "nick": "Morten",
+          "amount": 227
+        },
+        {
+          "nick": "Mr X",
+          "amount": 87
+        },
+        {
+          "nick": "Ole Morten",
+          "amount": 100
+        }
+      ]
+    },
+    {
+      "id": 1788676809642,
+      "date": "2026-08-17",
+      "winners": [
+        {
+          "nick": "Bjørn",
+          "amount": 17
+        },
+        {
+          "nick": "Endre",
+          "amount": 0.6
+        },
+        {
+          "nick": "Lars V",
+          "amount": 35.3
+        },
+        {
+          "nick": "Mowgli",
+          "amount": 8
+        }
+      ],
+      "losers": [
+        {
+          "nick": "8mm",
+          "amount": 1
+        },
+        {
+          "nick": "Jannik",
+          "amount": 40
+        },
+        {
+          "nick": "Mr X",
+          "amount": 15.5
+        },
+        {
+          "nick": "Wex",
+          "amount": 20
+        }
+      ]
+    },
+    {
+      "id": 1788676847774,
+      "date": "2026-08-19",
+      "winners": [
+        {
+          "nick": "Bjørn",
+          "amount": 6.5
+        },
+        {
+          "nick": "Odden",
+          "amount": 60
+        }
+      ],
+      "losers": [
+        {
+          "nick": "Endre",
+          "amount": 1
+        },
+        {
+          "nick": "Husein",
+          "amount": 10
+        },
+        {
+          "nick": "Jannik",
+          "amount": 32
+        },
+        {
+          "nick": "KingKong",
+          "amount": 10
+        },
+        {
+          "nick": "Lars V",
+          "amount": 5.6
+        },
+        {
+          "nick": "Mowgli",
+          "amount": 6.2
+        },
+        {
+          "nick": "Muttern",
+          "amount": 15
+        },
+        {
+          "nick": "Stein Hansen",
+          "amount": 18.1
+        }
+      ]
+    },
+    {
+      "id": 1788676887300,
+      "date": "2026-08-26",
+      "winners": [
+        {
+          "nick": "Anders A",
+          "amount": 44.8
+        },
+        {
+          "nick": "Bjørn",
+          "amount": 3.5
+        },
+        {
+          "nick": "KingKong",
+          "amount": 6.6
+        },
+        {
+          "nick": "Morten",
+          "amount": 11.5
+        }
+      ],
+      "losers": [
+        {
+          "nick": "Endre",
+          "amount": 29
+        },
+        {
+          "nick": "Jannik",
+          "amount": 30
+        },
+        {
+          "nick": "Solfjeld",
+          "amount": 29
+        },
+        {
+          "nick": "Wex",
+          "amount": 2.2
+        }
+      ]
+    },
+    {
+      "id": 1788676925301,
+      "date": "2026-08-28",
+      "winners": [
+        {
+          "nick": "Anders A",
+          "amount": 3.1
+        },
+        {
+          "nick": "Jannik",
+          "amount": 13.7
+        },
+        {
+          "nick": "KingKong",
+          "amount": 46.4
+        },
+        {
+          "nick": "Morten",
+          "amount": 12
+        }
+      ],
+      "losers": [
+        {
+          "nick": "8mm",
+          "amount": 8.3
+        },
+        {
+          "nick": "Bjørn",
+          "amount": 43
+        },
+        {
+          "nick": "Gard",
+          "amount": 1.2
+        },
+        {
+          "nick": "Husein",
+          "amount": 19
+        },
+        {
+          "nick": "Mowgli",
+          "amount": 28.7
+        }
+      ]
+    },
+    {
+      "id": 1788676957328,
+      "date": "2026-08-29",
+      "winners": [
+        {
+          "nick": "Bjørn",
+          "amount": 42
+        },
+        {
+          "nick": "Morten",
+          "amount": 21
+        },
+        {
+          "nick": "Mowgli",
+          "amount": 0.9
+        }
+      ],
+      "losers": [
+        {
+          "nick": "Flytøren",
+          "amount": 44.5
+        },
+        {
+          "nick": "Jannik",
+          "amount": 57
+        }
+      ]
+    },
+    {
+      "id": 1788677008005,
+      "date": "2026-09-02",
+      "winners": [
+        {
+          "nick": "Chris",
+          "amount": 28.5
+        },
+        {
+          "nick": "Hans",
+          "amount": 38
+        },
+        {
+          "nick": "Lars V",
+          "amount": 3.3
+        }
+      ],
+      "losers": [
+        {
+          "nick": "8mm",
+          "amount": 5.9
+        },
+        {
+          "nick": "Bjørn",
+          "amount": 36.3
+        },
+        {
+          "nick": "Jannik",
+          "amount": 33
+        },
+        {
+          "nick": "Mowgli",
+          "amount": 23.9
+        }
+      ]
+    },
+    {
+      "id": 1788677039287,
+      "date": "2026-09-04",
+      "winners": [
+        {
+          "nick": "Lars V",
+          "amount": 29.3
+        },
+        {
+          "nick": "Mikdad",
+          "amount": 17.5
+        },
+        {
+          "nick": "Mr X",
+          "amount": 4
+        }
+      ],
+      "losers": [
+        {
+          "nick": "99",
+          "amount": 10
+        },
+        {
+          "nick": "8mm",
+          "amount": 15
+        },
+        {
+          "nick": "Jannik",
+          "amount": 35
+        },
+        {
+          "nick": "Mowgli",
+          "amount": 10
+        }
+      ]
     }
   ]
 }
